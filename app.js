@@ -1,5 +1,5 @@
 // BACKEND URL'İNİ BURAYA YAPIŞTIR (Google Apps Script web app URL)
-const API_URL = 'BURAYA_GOOGLE_SCRIPT_URL_YAPISTIR';
+const API_URL = 'https://script.google.com/macros/s/AKfycbwSVcSjlsn9bxVJDJ7izaR7puhfyp_ZIwDzDoOBrj3FzzNwGi0KVa8rXPHGUt9maO8_/exec';
 
 let videoStream = null;
 let photoTaken = false;
